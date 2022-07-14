@@ -1,0 +1,131 @@
+[
+  {
+    "nombre": "botas women",
+    "precio": 25,
+    "compania": "adidas",
+    "rating": 4
+  },
+  {
+    "nombre": "cross negras",
+    "precio": 109,
+    "compania": "nike",
+    "rating": 5
+  },
+  {
+    "nombre": "cross bleach",
+    "precio": 309,
+    "compania": "nike",
+    "rating": 4.9
+  },
+  {
+    "nombre": "botas men",
+    "precio": 125,
+    "compania": "adidas",
+    "rating": 4.8
+  },
+  {
+    "nombre": "zapatos negros",
+    "precio": 40,
+    "compania": "nike",
+    "rating": 4.6
+  },
+  {
+    "nombre": "zapatillas celeste",
+    "precio": 42,
+    "compania": "puma",
+    "rating": 4.55
+  },
+  {
+    "nombre": "zapatillas verdes",
+    "precio": 23,
+    "compania": "puma"
+  },
+  {
+    "nombre": "borcegos blancas",
+    "precio": 59,
+    "destacados": true,
+    "company": "topper"
+  },
+  {
+    "nombre": "deportivas blancas",
+    "precio": 39,
+    "destacados": true,
+    "company": "puma"
+  },
+
+  {
+    "nombre": "deportivas rosas",
+    "precio": 99,
+    "compania": "topper"
+  },
+  {
+    "nombre": "deportivas azules",
+    "precio": 31,
+    "destacados": true,
+    "company": "topper"
+  },
+  {
+    "nombre": "borcegos marrones",
+    "precio": 30,
+    "compania": "nike"
+  },
+  {
+    "nombre": "zapatillas rosas",
+    "precio": 30,
+    "compania": "puma"
+  },
+  {
+    "nombre": "zapatillas deportivas",
+    "precio": 109,
+    "compania": "nike"
+  },
+  {
+    "nombre": "zapatillas blancas",
+    "precio": 129,
+    "compania": "adidas"
+  },
+  {
+    "nombre": "cross",
+    "precio": 15,
+    "compania": "topper"
+  },
+  {
+    "nombre": "ojotas bleach",
+    "precio": 79,
+    "destacados": true,
+    "company": "nike"
+  },
+  {
+    "nombre": "ojotas",
+    "precio": 120,
+    "destacados": true,
+    "company": "adidas"
+  },
+  {
+    "nombre": "zapatillas negras",
+    "precio": 25,
+    "compania": "puma"
+  },
+  {
+    "nombre": "ojotas",
+    "precio": 15,
+    "compania": "puma"
+  },
+  {
+    "nombre": "botitas",
+    "precio": 40,
+    "compania": "puma"
+  },
+  {
+    "nombre": "borsegos",
+    "precio": 23,
+    "destacados": true,
+    "company": "topper"
+  },
+  {
+    "nombre": "botas negras",
+    "precio": 23,
+    "destacados": true,
+    "company": "topper"
+  }
+]
